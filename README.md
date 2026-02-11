@@ -17,7 +17,7 @@ pip install pymath-cosmic
 ## Usage:
 
 ```python
-import pymath
+import pymath_cosmic
 
 print(pymath.getMathPlus(5, 5))
 print(pymath.getMathMinus(5, 2))
