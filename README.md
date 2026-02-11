@@ -16,7 +16,7 @@ pip install pymath-cosmic
 ```
 ## Usage:
 
-```bash
+```python
 import pymath
 
 print(pymath.getMathPlus(5, 5))
